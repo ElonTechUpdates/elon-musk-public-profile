@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elon Musk - Ultimate Innovation Hub &amp; Major Ventures</title>
+    <!-- Link to External Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Elon Musk - Major Companies &amp; Innovations</h1>
+        <p>Comprehensive documentation and visual highlights of the revolutionary companies shaping sustainable transport, aerospace, and neurotechnology.</p>
+
+        <!-- Telegram Channel Contact Button -->
+        <div class="contact-btn-container">
+            <a href="https://t.me/elunmusk" target="_blank" rel="noopener noreferrer" class="telegram-btn">
+                <svg class="telegram-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.622-.168.9-.5 1.201-.82 1.23-.697.064-1.228-.461-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.781-.417-1.21.258-1.911.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.012-1.252-.242-1.865-.442-.752-.244-1.349-.374-1.297-.789.027-.216.324-.437.893-.663 3.498-1.524 5.83-2.529 6.996-3.014 3.332-1.386 4.025-1.627 4.476-1.635.099-.002.321.023.465.14.12.098.153.228.166.331.011.095.024.312.011.48z"/>
+                </svg>
+                <span>Join Telegram Channel (@elunmusk)</span>
+            </a>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Tesla Section -->
+        <section class="company-card">
+            <div class="company-images-grid">
+                <div class="image-box">
+                    <img src="https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80" alt="Tesla Electric Vehicle Exterior" loading="lazy">
+                </div>
+                <div class="image-box">
+                    <img src="https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80" alt="Tesla Modern Interior &amp; Dashboard" loading="lazy">
+                </div>
+            </div>
+            <div class="company-content">
+                <h2>Tesla</h2>
+                <p>Tesla is a brand focused on electric vehicles, battery technology, and clean energy products. It is widely recognized for helping accelerate mainstream adoption of electric cars while expanding into energy storage, solar technology, and charging infrastructure.</p>
+                <ul class="features-list">
+                    <li>Electric cars, batteries, and solar energy products.</li>
+                    <li>Full Self-Driving (FSD) and advanced neural network software.</li>
+                    <li>Optimus humanoid robotics and sustainable energy storage.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- SpaceX Section -->
+        <section class="company-card">
+            <div class="company-images-grid">
+                <div class="image-box">
+                    <img src="https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&fit=crop&w=800&q=80" alt="SpaceX Rocket Launch &amp; Starbase" loading="lazy">
+                </div>
+                <div class="image-box">
+                    <img src="https://images.unsplash.com/photo-1517976487504-50ec25529426?auto=format&fit=crop&w=800&q=80" alt="Aerospace Technology &amp; Satellites" loading="lazy">
+                </div>
+            </div>
+            <div class="company-content">
+                <h2>SpaceX</h2>
+                <p>SpaceX is an American aerospace and space-technology company founded in 2002 by Elon Musk. It develops reusable rockets and spacecraft aimed at lowering the cost of spaceflight, and operates the Starlink satellite constellation for global broadband access.</p>
+                <ul class="features-list">
+                    <li>Reusable Falcon rockets and the Starship launch system.</li>
+                    <li>Starlink global satellite internet network.</li>
+                    <li>Commercial and institutional payload delivery.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Neuralink Section -->
+        <section class="company-card">
+            <div class="company-images-grid">
+                <div class="image-box">
+                    <img src="https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80" alt="Neuralink Brain-Computer Interface Research" loading="lazy">
+                </div>
+            </div>
+            <div class="company-content">
+                <h2>Neuralink</h2>
+                <p>Neuralink is developing brain-computer interfaces designed to connect the human brain directly with digital systems, with a focus on restoring autonomy for people with neurological conditions.</p>
+                <ul class="features-list">
+                    <li>Implantable neural telemetry chips.</li>
+                    <li>Precision surgical automation robotics.</li>
+                    <li>Clinical trials for neurological restoration.</li>
+                </ul>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2026 Innovation Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
